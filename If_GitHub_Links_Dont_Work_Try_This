@@ -1,1 +1,3 @@
-
+If GitHub Links in this repository do not load properly, try this:
+place URL at the end of https://nbviewer.jupyter.org/github
+Example: https://nbviewer.jupyter.org/github/daxfeliz/SSMV-Felix/blob/master/Session3.ipynb
